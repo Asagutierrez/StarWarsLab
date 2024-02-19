@@ -1,0 +1,6 @@
+.shipCard {
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  background-color: azure;
+}
